@@ -1,14 +1,27 @@
 [
   {
-    "ccy": "EUR",
-    "base_ccy": "UAH",
-    "buy": "41.90000",
-    "sale": "42.90000"
+    "id": "1",
+    "titleBlog": "Firts blog title",
+    "text": "This is text of first blog"
   },
   {
-    "ccy": "USD",
-    "base_ccy": "UAH",
-    "buy": "39.80000",
-    "sale": "40.30000"
-  }
+    "id": "2",
+    "titleBlog": "Second blog title",
+    "text": "This is text of first blog"
+  },
+  {
+    "id": "3",
+    "titleBlog": "Third blog title",
+    "text": "This is text of third blog"
+  },
+  {
+    "id": "4",
+    "titleBlog": "Fourth blog title",
+    "text": "This is text of fourth blog"
+  },
+  {
+    "id": "5",
+    "titleBlog": "Fifth blog title",
+    "text": "This is text of fifth blog"
+  },
 ]
