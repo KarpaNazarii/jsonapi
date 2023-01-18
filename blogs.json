@@ -4,41 +4,41 @@
     "titleBlog":"Firts blog title",
     "text":"This is text of first blog",
     "date":"10.11.2023",
-    "categoty":"sport"
+    "category":"sport"
   },
   {
     "id":"2",
     "titleBlog":"Second blog title",
     "text":"This is text of second blog",
     "date":"10.11.2023",
-    "categoty":"culture"
+    "category":"culture"
   },
   {
     "id": "3",
     "titleBlog": "Third blog title",
     "text": "This is text of third blog",
     "date":"10.11.2023",
-    "categoty":"sport"
+    "category":"sport"
   },
   {
     "id":"4",
     "titleBlog":"Fourth blog title",
     "text":"This is text of fourth blog",
     "date":"10.11.2023",
-    "categoty":"culture"
+    "category":"culture"
   },
   {
     "id":"5",
     "titleBlog":"Fifth blog title",
     "text":"This is text of fifth blog",
     "date":"10.11.2023",
-    "categoty":"sport"
+    "category":"sport"
   },
     {
     "id":"5",
     "titleBlog":"Fifth blog title",
     "text":"This is text of fifth blog",
     "date":"10.11.2023",
-    "categoty":"sport"
+    "category":"sport"
   }
 ]
